@@ -1,0 +1,10 @@
+Resultados:
+Pregunta: Why do people use blogs
+Tiempo de ejecucion: 33.2841830254 segundos
+Dimension de la red: 
+        x: 1 clusters, y: 6 clusters
+Dimension de la matriz de pesos: 
+        # documentos: 19
+        # palabras: 459
+Numero de documentos de Wikipedia procesados: 18
+Numero de iteraciones para el entrenamiento de la red: 300

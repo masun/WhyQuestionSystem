@@ -1,0 +1,7 @@
+shade
+blue
+category
+variety
+shade
+technical
+sense

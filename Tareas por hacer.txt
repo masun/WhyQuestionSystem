@@ -1,0 +1,35 @@
+Tareas por hacer:
+
+- Mostrar el porcentaje o la cantidad de documentos que caen en los clusters.
+- Arreglar que las pruebas estén a partir de ahora todas en un solo documento. En forma de csv
+- Buscar mejor rendimiento de cluster eliminando columnas.
+- Distancia euclidiana vs distancia angular por el metodo del coseno
+ 
+
+
+Resultado de la reunion con la tutora
+
+- Matriz de pesos de entrada de palabras clave (bliblue)
+- Resultado de training, porcentaje por cluster (training resultado)
+- Matriz de pesos de la red
+2 - Recall
+	Preprocessing
+	Determinar el vector de la pregunta
+	Introducir el nuevo vector generado en la matriz de pesos
+	Ubicar el Cluster en donde cae la pregunta
+3 - Aplicar similarity measure, para ordenar los documentos de un cluster dependiente de la distancia ascendentemente
+
+SPT, investigar
+	is
+S + are   + DO + IO
+	do
+	does
+
+investigar página y libro de Suzan Veberne
+
+
+4 - Guardar la matriz de entrenamiento luego de ser entrenada
+
+
+
+5 - Entrenar toda wikipedia (luego)

@@ -1,0 +1,11 @@
+#dependencies
+#needs Java runtime
+
+sudo pip install 
+requests
+sudo pip install Cython
+sudo pip install lxml
+sudo pip install BeautifulSoup
+#**sudo pip install PyEnchant
+sudo pip instal -U numpy
+sudo pip install -U pyyaml nltk

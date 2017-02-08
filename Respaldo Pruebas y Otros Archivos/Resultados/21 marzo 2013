@@ -1,0 +1,82 @@
+21 marzo 2013
+Resultados del procesamiento de 40 paginas de wikipedia completamente.
+
+
+Ochoas-MacBook-Pro:Tesis 2013 warles34$ python main_process.py "why is the sky blue" 2
+obtencionPruebas/LEMMA/why is the sky blue200001.txtdone [7.2 sec].
+CRFClassifier tagged 10 words in 2 documents at 42.55 words per second.
+Tiempo hasta el momento
+									1363876992.34
+obtencionPruebas/LEMMA/why is the sky blue200002.txtdone [5.9 sec].
+CRFClassifier tagged 535 words in 19 documents at 424.94 words per second.
+Tiempo hasta el momento
+									1363877008.79
+obtencionPruebas/LEMMA/why is the sky blue200003.txtdone [1.5 sec].
+CRFClassifier tagged 2090 words in 87 documents at 516.30 words per second.
+Tiempo hasta el momento
+									1363877029.84
+obtencionPruebas/LEMMA/why is the sky blue200004.txtdone [1.5 sec].
+CRFClassifier tagged 5839 words in 237 documents at 1478.98 words per second.
+Tiempo hasta el momento
+									1363877049.61
+obtencionPruebas/LEMMA/why is the sky blue200005.txtdone [1.4 sec].
+CRFClassifier tagged 19 words in 1 documents at 279.41 words per second.
+Tiempo hasta el momento
+									1363877051.99
+obtencionPruebas/LEMMA/why is the sky blue200006.txtdone [1.4 sec].
+CRFClassifier tagged 1318 words in 51 documents at 3079.44 words per second.
+Tiempo hasta el momento
+									1363877055.9
+obtencionPruebas/LEMMA/why is the sky blue200007.txtdone [1.5 sec].
+CRFClassifier tagged 683 words in 33 documents at 2456.83 words per second.
+Tiempo hasta el momento
+									1363877059.22
+obtencionPruebas/LEMMA/why is the sky blue200008.txtdone [1.4 sec].
+CRFClassifier tagged 456 words in 18 documents at 1720.75 words per second.
+Tiempo hasta el momento
+									1363877061.88
+obtencionPruebas/LEMMA/why is the sky blue200009.txtdone [1.4 sec].
+CRFClassifier tagged 3179 words in 130 documents at 1369.67 words per second.
+Tiempo hasta el momento
+									1363877075.67
+obtencionPruebas/LEMMA/why is the sky blue200010.txtdone [1.5 sec].
+CRFClassifier tagged 135 words in 6 documents at 1097.56 words per second.
+Tiempo hasta el momento
+									1363877078.66
+obtencionPruebas/LEMMA/why is the sky blue200011.txtdone [1.5 sec].
+CRFClassifier tagged 6 words in 1 documents at 125.00 words per second.
+Tiempo hasta el momento
+									1363877081.01
+obtencionPruebas/LEMMA/why is the sky blue200012.txtdone [1.5 sec].
+CRFClassifier tagged 2539 words in 119 documents at 969.82 words per second.
+Tiempo hasta el momento
+									1363877089.81
+obtencionPruebas/LEMMA/why is the sky blue200013.txtdone [1.5 sec].
+CRFClassifier tagged 886 words in 31 documents at 2605.88 words per second.
+Tiempo hasta el momento
+									1363877094.77
+obtencionPruebas/LEMMA/why is the sky blue200014.txtdone [1.4 sec].
+CRFClassifier tagged 1412 words in 41 documents at 2206.25 words per second.
+Tiempo hasta el momento
+									1363877099.75
+obtencionPruebas/LEMMA/why is the sky blue200015.txtdone [1.4 sec].
+CRFClassifier tagged 7163 words in 260 documents at 5880.95 words per second.
+Tiempo hasta el momento
+									1363877107.02
+obtencionPruebas/LEMMA/why is the sky blue200016.txtdone [1.5 sec].
+CRFClassifier tagged 2435 words in 83 documents at 3229.44 words per second.
+Tiempo hasta el momento
+									1363877112.65
+obtencionPruebas/LEMMA/why is the sky blue200017.txtdone [1.4 sec].
+CRFClassifier tagged 259 words in 9 documents at 1660.26 words per second.
+Tiempo hasta el momento
+									1363877115.16
+obtencionPruebas/LEMMA/why is the sky blue200018.txtdone [1.4 sec].
+CRFClassifier tagged 1260 words in 54 documents at 3452.05 words per second.
+Tiempo hasta el momento
+									1363877118.71
+obtencionPruebas/LEMMA/why is the sky blue200019.txtdone [1.4 sec].
+CRFClassifier tagged 326 words in 11 documents at 1841.81 words per second.
+Tiempo hasta el momento
+									1363877121.25
+Ochoas-MacBook-Pro:Tesis 2013 warles34$ 

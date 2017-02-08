@@ -1,0 +1,15 @@
+Propuestas:
+
+Tomar relevancia en todo el documento
+
+Fuzzy Euclidean Function
+  + = or    = max
+  * = and   = min
+  - = and - = min -
+
+Estado del Arte de Tesis de Susan Veberne
+
+Interfaz
+10 preguntas fijas
+
+

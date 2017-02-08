@@ -1,0 +1,780 @@
+Resultados de la prueba2013-07-31 00:07:41.955732
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 18.9339849949 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Dimension de la matriz de pesos: 
+        # documentos: 5
+        # palabras: 101
+Numero de documentos de Wikipedia procesados: 9
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  2013-07-31 08:22:37.832339:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 23.9071240425 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Dimension de la matriz de pesos: 
+        # documentos: 5
+        # palabras: 101
+Numero de documentos de Wikipedia procesados: 9
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.541740894318 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.532492160797 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.56004691124 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.528881072998 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.517817974091 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.525376081467 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.512120962143 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.618669986725 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.505233049393 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.573219060898 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.462359905243 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.974622011185 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.673691987991 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.539736032486 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.508357048035 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.502668142319 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.516204833984 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.517710924149 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.557006835938 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/prueba 2013-07-08 12:40:43.792295/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.440059900284 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 16
+		self.number_distinct_words = 290
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 16
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:53:00.317315:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 80.1204061508 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 22
+		self.number_distinct_words = 453
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 22
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:55:51.441008:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 61.8024201393 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 57.2427909374 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.908050060272 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.921288013458 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.297557115555 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 22
+		self.number_total_words = -939
+		self.number_of_words_in_document = [-15, -10, -16, -53, -31, -50, -26, -14, -20, -57, -59, -56, -15, -11, -13, -10, -40, -8, -87, -9, -28, -17, -54, -25, -57, -23, -31, -21, -15, -61, -7]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.92178606987 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.917169094086 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.913024902344 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.912770032883 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.241617918015 segundos
+Dimension de la red: 
+        x: 4 clusters, y: 4 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.249931097031 segundos
+Dimension de la red: 
+        x: 4 clusters, y: 4 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 1.20377707481 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 1.08627200127 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 1.11623907089 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 1.14038300514 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 10 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.36967587471 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.554033041 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.409739017487 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.357740879059 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.335958957672 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.317178010941 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 22
+		self.number_total_words = -939
+		self.number_of_words_in_document = [-15, -10, -16, -53, -31, -50, -26, -14, -20, -57, -59, -56, -15, -11, -13, -10, -40, -8, -87, -9, -28, -17, -54, -25, -57, -23, -31, -21, -15, -61, -7]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.323770046234 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 50
+		self.number_total_words = -820
+		self.number_of_words_in_document = [-9, -9, -11, -41, -22, -42, -26, -13, -17, -54, -51, -53, -15, -10, -12, -10, -33, -8, -76, -8, -20, -17, -48, -23, -53, -19, -29, -19, -10, -55, -7]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.332854986191 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 132
+		self.number_total_words = -593
+		self.number_of_words_in_document = [-7, -8, -4, -25, -14, -25, -19, -4, -16, -43, -37, -48, -13, -8, -2, 0, -18, -7, -55, -8, -9, -14, -35, -19, -47, -12, -28, -17, -7, -38, -6]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.876575946808 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.35559797287 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.349453926086 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 632
+		self.number_total_words = 0
+		self.number_of_words_in_document = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.324690103531 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 132
+		self.number_total_words = -593
+		self.number_of_words_in_document = [-7, -8, -4, -25, -14, -25, -19, -4, -16, -43, -37, -48, -13, -8, -2, 0, -18, -7, -55, -8, -9, -14, -35, -19, -47, -12, -28, -17, -7, -38, -6]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.33345413208 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 132
+		self.number_total_words = -593
+		self.number_of_words_in_document = [-7, -8, -4, -25, -14, -25, -19, -4, -16, -43, -37, -48, -13, -8, -2, 0, -18, -7, -55, -8, -9, -14, -35, -19, -47, -12, -28, -17, -7, -38, -6]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.320421934128 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 50
+		self.number_total_words = -820
+		self.number_of_words_in_document = [-9, -9, -11, -41, -22, -42, -26, -13, -17, -54, -51, -53, -15, -10, -12, -10, -33, -8, -76, -8, -20, -17, -48, -23, -53, -19, -29, -19, -10, -55, -7]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 12:27:44.032392:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 42.4031898975 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 13
+		self.number_distinct_words = 4
+		self.number_total_words = -463
+		self.number_of_words_in_document = [-23, -10, -23, -63, -34, -52, -26, -18, -20, -58, -63, -58, -15]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 13
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.397405147552 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 22
+		self.number_total_words = -939
+		self.number_of_words_in_document = [-15, -10, -16, -53, -31, -50, -26, -14, -20, -57, -59, -56, -15, -11, -13, -10, -40, -8, -87, -9, -28, -17, -54, -25, -57, -23, -31, -21, -15, -61, -7]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 10:57:40.275189/:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 0.312475919724 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 31
+		self.number_distinct_words = 50
+		self.number_total_words = -820
+		self.number_of_words_in_document = [-9, -9, -11, -41, -22, -42, -26, -13, -17, -54, -51, -53, -15, -10, -12, -10, -33, -8, -76, -8, -20, -17, -48, -23, -53, -19, -29, -19, -10, -55, -7]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 31
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+
+Resultados de la prueba  obtencionPruebas/resultados/2013-08-15 12:33:15.531068:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 15.8513190746 segundos
+Dimension de la red: 
+        x: 5 clusters, y: 5 clusters
+Weight Matrix
+		self.number_of_documents = 4
+		self.number_distinct_words = 6
+		self.number_total_words = -112
+		self.number_of_words_in_document = [-21, -10, -21, -60]
+		self.word_total_frequency = []Numero de documentos de Wikipedia procesados: 4
+Numero de iteraciones para el entrenamiento de la red: 10
+----------------------------------------------
+

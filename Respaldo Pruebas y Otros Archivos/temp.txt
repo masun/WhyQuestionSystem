@@ -1,0 +1,85 @@
+During daylight, the sky appears to be blue because air scatters blue sunlight more than it scatters red.stars. During the day, the Sun can be seen in the sky, unless obscured by clouds. In the night sky (and to some extent during the day) the moon, planets and stars are visible in the sky. Some of the natural phenomena seen in the sky are clouds, rainbows, and aurorae. Lightning and precipitation can also be seen in the sky during storms. Birds, insects, aircraft, and kites are often considered to fly in the sky. Due to human activities, smog during the day and light pollution during the night are often seen above large cities.
+
+
+-----------------------------------------------------------------------------------------
+
+It is now known that during the Martian day, the sky is a scarlet or bright orangeish-red color.[citation needed] Around sunset and sunrise, the sky is rose in color, but in the vicinity of the setting Sun it is blue. This is the opposite of the situation on Earth. At times, the sky takes on a purplish color, due to the scattering of light by very small water ice particles in clouds.
+
+
+-----------------------------------------------------------------------------------------
+
+Asteroids with unusual orbits also offer a lot to the imagination. For instance, the asteroid (or more likely, extinct comet) 3200 Phaethon has one of the most eccentric orbits: its distance from the Sun varies between 0.14 and 2.4 AU. At perihelion, the Sun would loom over 7 times larger than it does in our sky, and blast the surface with over 50 times as much energy; at aphelion, the Sun would shrink to less than half its apparent diameter on Earth, and give little more than a sixth as much illumination.
+
+
+-----------------------------------------------------------------------------------------
+
+It is sometimes felt that "obvious" statements, such as "the sky is blue" do not need citing. However, there are some reasons why you do need to cite the "obvious", such as that the sky is blue.
+
+
+-----------------------------------------------------------------------------------------
+
+Of the Blue Colour of the Sky is the third studio album by American rock band OK Go. It was released on January 12, 2010 on Capitol Records in the USA and EMI in the UK, and re-released on the band's independent label Paracadute Records on April 1. After the band's split with EMI and Capitol, Paracadute took over the promotional campaign and all distribution responsibilities.The Influence of the Blue Ray of the Sunlight and of the Blue Colour of the Sky, a pseudoscientific book published in 1876. Its style was noted as a significant departure from the pop rock of their earlier albums.
+
+
+-----------------------------------------------------------------------------------------
+
+After the band's previous album Oh No was finished being recorded in 2005, guitarist Andy Duncan left the band, citing creative differences and major label pressures. He was replaced by Andy Ross, who was involved in the album's promotion, including music video appearances. The music videos for "A Million Ways" and "Here It Goes Again" attracted much attention as viral videos on YouTube, and were significantly influential in the Oh No's success and rise in OK Go's popularity. Along with releasing the EP You're Not Alone with New Orleans brass funk rock band Bonerama in 2008, the band toured continually for almost three years in support of Oh No.
+
+
+-----------------------------------------------------------------------------------------
+
+OK Go finished writing new material and started working in the studio in October 2008. They worked for two week intervals (opposite The Flaming Lips) in producer Dave Fridmann's Tarbox Road Studios, a converted Amish barn in Cassadaga, New York, through May the following year.Bassist Tim Nordwind described the process of the studio sessions as a midpoint between the slick production work done on OK Go and the emphasis on live takes with the recording of Oh No.
+
+
+-----------------------------------------------------------------------------------------
+
+Since OK Go split from EMI, their label, Paracadute, re-released the album with two bonus tracks April 1, 2010. On September 19, they announced that an Extra Nice Edition was to be released in the USA on November 2. It features the standard thirteen-track album along with a bonus disk that includes demos, alternate versions, two covers, and an in-depth interview with the band by Ira Glass. Also, access to a digital database is included with its purchase. Music will continually be added to the database even though the album is out. So far, a digital-only album entitled Twelve Remixes of Four Songs is available for instant download along with the two physical disks in Apple Lossless files or medium-sized MP3s.
+
+
+-----------------------------------------------------------------------------------------
+
+Of the colours in the visible spectrum of light, blue has a very short wavelength, while red has the longest wavelength. When sunlight passes through the atmosphere, the blue wavelengths are scattered more widely by the oxygen and nitrogen molecules, and more blue comes to our eyes. This effect is called Rayleigh scattering, after Lord Rayleigh, the British physicist who discovered it. It was confirmed by Albert Einstein in 1911.
+
+
+-----------------------------------------------------------------------------------------
+
+At good visibility conditions (for example, a dark cloud behind the rainbow), the second arc can be seen, with inverse order of colours. At the background of the blue sky, the second arc is barely visible.
+
+
+-----------------------------------------------------------------------------------------
+
+Sky Blue Sky is the sixth studio album by American rock band Wilco, released on May 15, 2007 by Nonesuch Records. Originally announced on January 17, 2007 at a show in Nashville, Tennessee, it was the band's first studio album with guitarist Nels Cline and multi-instrumentalist Pat Sansone. Before its release, the band streamed the entire album on its official website and offered a free download of "What Light".
+
+
+-----------------------------------------------------------------------------------------
+
+I found a different formula for the Rayleigh scattering coefficient. There the number of scatterers is in the denominator. It is from a lexicon of optics. I doubt that this is wrong. The formula is scattering coefficient b = (8*PI^3/3*N*lambda^4) * (n^2-1)^2, where N is the number of scatterers and n is the index of refraction.
+
+
+-----------------------------------------------------------------------------------------
+
+The "proof" is what I wrote in the motivation of my edit. A beam is much more visible when it is directed toward you than away from you, which is typical of Mie/Tyndall scattering, whereas Rayleigh would be symmetrical: think to a thin sunbeam entering a dark room. In this case, moreover, you can distinguish a lot of dust, whose radius I think improbable to be smaller than λ/2π (about 80 nm), which is the boundary between Rayleigh and Mie (see the first figure in Mie scattering). And, even if the dust were small, the figure would be out of place, in the paragraph "From molecules". Finally, perhaps one should prove that the laser beam represents Rayleigh scattering, to keep the figure, rather than disprove it to remove it. Maybe that changing the figure position could be a reasonable compromise. --87.7.187.76 (talk) 08:50, 18 March 2012 (UTC)
+
+
+-----------------------------------------------------------------------------------------
+
+Sunlight scattered by gases with very negligible intensity because according to Rayleigh equation the intensity of light is directly proportional to the sixth power of particle's diameter that cause particles of 40 nanometers diameter (  is approximately equivalent to the sphere diameter ) to be more than trillion times more intense than gases ( nitrogen & oxygen ) and much less intense than haze ( about 200 nanometers ). On the other side tiny particles and haze ( below the wavelength of violet ) appear white in cold weather while storm clouds ( very far away over the wavelength of red ) appear blue sometimes, which means that atmospheric blue color is Rayleigh scattering independent. It is more easy to explain in my mother language as shown in this link that ozone layer reflects ocean's color — Preceding unsigned comment added by 41.218.181.44 (talk) 08:48, 18 October 2012 (UTC)
+
+
+-----------------------------------------------------------------------------------------
+
+The massive flow of electrical current occurring during the return stroke combined with the rate at which it occurs (measured in microseconds) rapidly superheats the completed leader channel, forming a highly electrically-conductive plasma channel. The core temperature of the plasma during the return stroke may exceed 50,000 K, causing it to brilliantly radiate with a blue-white color. Once the electrical current stops flowing, the channel cools and dissipates over 10's or hundreds of milliseconds, often disappearing as fragmented patches of glowing gas. The nearly instantaneous heating during the return stroke causes the air to explosively expand, producing a powerful shock wave that is heard as thunder.
+
+
+-----------------------------------------------------------------------------------------
+
+In the Torah, the Israelites were commanded to put fringes, tzitzit, on the corners of their garments, and to weave within these fringes a “twisted thread of blue (tekhelet).”hilazon. Maimonides claimed that this blue was the color of “the clear noonday sky”; Rashi, the color of the evening sky.
+
+
+-----------------------------------------------------------------------------------------
+
+The question hinges on whether color is a product of the mind or an inherent property of objects. While most philosophers will agree that color assignment corresponds to spectra of light frequencies, it is not at all clear whether the particular psychological phenomena of color are imposed on these visual signals by the mind, or whether such qualia are somehow naturally associated with their noumena. Another way to look at this question is to assume two people ("Fred" and "George" for the sake of convenience) see colors differently. That is, when Fred sees the sky, his mind interprets this light signal as blue. He calls the sky "blue." However, when George sees the sky, his mind assigns green to that light frequency. If Fred were able to step into George's mind, he would be amazed that George saw green skies. However, George has learned to associate the word "blue" with what his mind sees as green, and so he calls the sky "blue", because for him the color green has the name "blue." The question is whether blue must be blue for all people, or whether the perception of that particular color is assigned by the mind.
+
+
+-----------------------------------------------------------------------------------------
+

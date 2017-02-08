@@ -1,0 +1,15 @@
+traditional
+color
+wheel
+cyan
+locate
+midway
+blue
+green
+call
+call
+green
+cyan
+blue
+color
+century

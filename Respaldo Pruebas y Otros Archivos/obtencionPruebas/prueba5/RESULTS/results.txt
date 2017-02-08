@@ -1,0 +1,10 @@
+Resultados:
+Pregunta: why is the sky blue
+Tiempo de ejecucion: 50.2845509052 segundos
+Dimension de la red: 
+        x: 10 clusters, y: 12 clusters
+Dimension de la matriz de pesos: 
+        # documentos: 30
+        # palabras: 481
+Numero de documentos de Wikipedia procesados: 39
+Numero de iteraciones para el entrenamiento de la red: 100

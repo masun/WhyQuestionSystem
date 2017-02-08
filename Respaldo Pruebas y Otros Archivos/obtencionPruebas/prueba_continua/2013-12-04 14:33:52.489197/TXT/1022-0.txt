@@ -1,0 +1,1 @@
+I found a different formula for the Rayleigh scattering coefficient. There the number of scatterers is in the denominator. It is from a lexicon of optics. I doubt that this is wrong. The formula is scattering coefficient b = (8*PI^3/3*N*lambda^4) * (n^2-1)^2, where N is the number of scatterers and n is the index of refraction.

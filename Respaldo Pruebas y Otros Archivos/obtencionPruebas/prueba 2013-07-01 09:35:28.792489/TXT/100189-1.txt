@@ -1,0 +1,1 @@
+Stellar photometry came into use in 1861 as a means of measuring stellar colors. This technique measured the magnitude of a star at specific frequency ranges, allowing a determination of the overall color, and therefore temperature of a star. By 1951 an internationally standardized system of UBV-magnitudes (Ultraviolet-Blue-Visual) was adopted.
